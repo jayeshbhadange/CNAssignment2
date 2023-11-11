@@ -1,6 +1,6 @@
 ﻿Group members
 Jayesh Bhadange 20110082
-Pratik Raj              20110144
+Pratik Raj      20110144
 
 
 How to run the code
